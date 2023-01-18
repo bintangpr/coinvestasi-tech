@@ -38,7 +38,7 @@ function navbar(){
                 <div className='w-62 flex items-center'>
                     <img src={SearchIcon} className='w-5 h-5 mr-4' alt='search icon' />
                     <div className='bg-yellow h-14 w-full flex items-center justify-center rounded'>
-                        <p className='text-white font-inter font-medium text-base text-center'>Beli Bitcoin Sekarang</p>
+                        <p className='text-white font-inter font-medium text-base text-center px-6'>Beli Bitcoin Sekarang</p>
                     </div>
                 </div>
             </div>
