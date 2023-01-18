@@ -16,6 +16,17 @@ module.exports = {
       inter: "'Inter', serif",
       poppins: "'Poppins', serif"   
     },
+    height:{
+      53: '13.125rem',
+      62: '15.625rem',
+    },
+    width:{
+      53: `13.125rem`,
+      62: '15.625rem',
+    },
+    colors: {
+      'yellow': '#F2B124',
+    },
     },
   },
   plugins: [],
