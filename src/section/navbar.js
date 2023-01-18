@@ -1,3 +1,4 @@
+import React from 'react';
 import CoinvestasiLogo from '../aset/CoinvestasiLogo.svg'
 import Dropdown from '../aset/chevron-down.svg'
 import SearchIcon from '../aset/magnifier.svg'
@@ -40,7 +41,6 @@ function navbar(){
                         <p className='text-white font-inter font-medium text-base text-center'>Beli Bitcoin Sekarang</p>
                     </div>
                 </div>
-                
             </div>
         </div>
     );

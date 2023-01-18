@@ -19,6 +19,7 @@ module.exports = {
     height:{
       53: '13.125rem',
       62: '15.625rem',
+      123: '30.75rem',
     },
     width:{
       53: `13.125rem`,
@@ -26,6 +27,17 @@ module.exports = {
     },
     colors: {
       'yellow': '#F2B124',
+      'greyText': '#D3D9E3',
+      'bluePage': '#2B64CE',
+      'whiteGrey': '#F8F8F8',
+      'boxLinear' : '#F2F5F9',
+      'upperBoxLinear' :'#fff1fb',
+    },
+    borderRadius: {
+      'timer' : '3.4375rem'
+    },
+    width: {
+      '5/11': '56.25%',
     },
     },
   },
