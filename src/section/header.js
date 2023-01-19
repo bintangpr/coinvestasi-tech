@@ -28,8 +28,8 @@ function header(){
                     </div>
                 </div>
                 <div className="flex justify-center w-full">
-                    <div className="w-11/12 relative h-123 flex flex-row-reverse">
-                        <img className="w-1/2 relative z-20 " src={headerPic} alt="bitcoin vs saham"/>
+                    <div className="w-11/12 relative h-123 flex flex-row-reverse items-center">
+                        <img className="w-1/2 h-80 relative z-20 right-20  " src={headerPic} alt="bitcoin vs saham"/>
                     </div>
                 </div>
             </div>

@@ -54,6 +54,11 @@ module.exports = {
         lineHeight: '2.75rem',
         fontWeight: '700',
       }],
+      'paragraph': ['1rem', {
+        lineHeight: '1.875rem',
+        letterSpacing: '-0.01em',
+        fontWeight: '500',
+      }],
     }
     },
   },

@@ -1,3 +1,6 @@
+import { article1 } from "../aset/text/article";
+import Paragraph from "../component/paragraph";
+
 function body() {
     return(
         <div className="w-full flex justify-center">
@@ -7,6 +10,11 @@ function body() {
                 <div className="w-3/4">
                     <div className="ml-18">
                         {/* Create component for paragraph */}
+                        <Paragraph article={article1}/>
+                        <h2 className="text-2xl font-poppins font-bold mt-6 mb-2">Proses Kepemilikan</h2>
+                        <div>
+                            {/* Give the numbering section */}
+                        </div>
                         <div className="h-123">Loren</div>
                         <div className="h-123">Loren</div>
                         <div className="h-123">Loren</div>
