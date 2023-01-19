@@ -9,7 +9,7 @@ const PageInformation = (props) => {
 
    
     return(
-        <div className='w-11/12 flex justify-between h-11 mt-6'>
+        <div className='w-11/12 flex justify-between h-11 my-6'>
             <div className='flex font-inter text-sm font-medium'>
                 {showPage}
             </div>
