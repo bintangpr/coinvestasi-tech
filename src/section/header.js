@@ -12,7 +12,7 @@ function header(){
             <div className="flex justify-center">
                 <PageInformation info={info} time="5"/>     
             </div>
-            <div className="flex ">
+            <div className="flex mb-10">
                 <div className="absolute z-10 w-5/11 bg-gradient-to-r from-boxLinear/0 via-secondBoxLinear/[.58] to-upperBoxLinear h-123 shadow-bigbox flex items-center justify-center">
                     <div className="w-80">
                         <div className="mb-4">
@@ -32,9 +32,7 @@ function header(){
                         <img className="w-1/2 relative z-20 " src={headerPic} alt="bitcoin vs saham"/>
                     </div>
                 </div>
-                 
             </div>
-           
         </div>
     );
 }

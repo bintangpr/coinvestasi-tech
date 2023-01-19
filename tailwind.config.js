@@ -46,6 +46,9 @@ module.exports = {
     boxShadow: {
       'bigbox': '-6px 6px 18px rgba(0, 0, 0, 0.03)',
     },
+    margin: {
+      '18': '4.5rem',
+    },
     fontSize: {
       'h1': ['2rem', {
         lineHeight: '2.75rem',
