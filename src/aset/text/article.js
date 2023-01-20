@@ -3,4 +3,15 @@ export const article1 = ["Kesadaran akan investasi utamanya bagi generasi muda s
 "Kamu bisa mendapatkan jawabannya di artikel berikut ini. Sebelum kita mengetahui keuntungan mana yang lebih besar, ada baiknya kamu mengetahui bahwa meski sering disamakan, saham dan Bitcoin adalah dua investasi yang berbeda, apa saja perbedaannya? Berikut ulasannya Bitcoin vs Saham.",
 "Paling tidak ada tiga hal yang menjadi pembeda utama Bitcoin vs saham. Di antaranya adalah proses kepemilikan, pasokan dan kapasitas menghasilkan untung."]
 
-export const article2 = []
+export const article2 = ["Berinvestasi di pasar saham membutuhkan banyak kesabaran karena menghasilkan keuntungan dari investasi ini membutuhkan waktu yang tidak sebentar bahkan hingga bertahun-tahun.","Sedangkan Bitcoin terkenal dengan sifatnya yang volatil dan fluktuatif, sehingga bisa mendapatkan keuntungan dengan sangat cepat karena harganya berubah dengan cepat pula."]
+export const article3 = ["Meski begitu perlu diingat kapasitas mendapatkan untung dengan cepat biasanya diimbangi dengan risiko yang tinggi pula, karena itu kamu perlu bijak melakukan manajemen risiko dalam melakukan investasi."]
+export const quote1 = "Dengan mekanisme tersebut di masa depan, harga Bitcoin akan akan melambung tinggi dan bagi para investor yang memulai investasi Bitcoin sejak dini sangat dimungkinkan untuk mendapatkan keuntungan besar dari Bitcoin yang sudah mereka miliki sejak harganya belum terlalu tinggi. Bitcoin sendiri tercatat pernah menyentuh harga tertingginya pada  933 juta Rupiah pada April 2021."
+
+export const article4 =[
+    "Setelah mengetahui perbedaan saham dan Bitcoin secara umum , sekarang mari kita lihat perbandingan harga tertinggi dari Bitcoin vs saham. Pada artikel kali ini, kami menggunakan data harga tertinggi yang diperoleh Bitcoin dan saham di periode 31 Desember.",
+"Saham yang digunakan dalam perbandingan ini adalah beberapa saham yang masuk kategori top tier di Indonesia. Saham itu adalah saham BCA, Unilever, BRI, Telkom, Antam, dan Indofood.",
+"Di model ini kamu adalah investor yang membeli investasi saham sejumlah 10 lot (1000 lembar) atau Bitcoin pada 2016 dan menjualnya pada 2020.  Berikut ini adalah hasil dan keuntungan yang kamu dapatkan.",
+"Berdasarkan tabel tersebut dapat dilihat bahwa Bitcoin memiliki keuntungan yang sangat mengesankan, jika kamu membelinya pada 2016 dan menjualnya pada 2020 maka kamu sudah profit hingga 3.000 persen. Hal ini justru berbeda jika kamu investasi di saham Unilever, Telkom hingga Indofood yang malah rugi ketika disimpan selama empat tahun. Dari hasil ini menunjukan jika soal keuntungan Bitcoin jauh lebih unggul.",
+"Kemudian jika kamu baru mengenal Bitcoin tahun ini dan membelinya di awal tahun, kamu juga mendapatkan profit yang cukup lumayan. Sebab dalam Januari -Juli Bitcoin telah mengalami keuntungan hingga 41.12%. Walau tahun ini harga Bitcoin sempat mengalami penurunan hingga setengah harga dari harga tertingginya, pada kenyataannya aset ini tetap mengalami pertumbuhan yang cukup baik.",
+"Ingin tahu perkembangan harga Bitcoin dan harga aset crypto lainnya? Kamu bisa memperolehnya di situs Coinvestasi.com. "
+]

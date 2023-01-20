@@ -13,7 +13,7 @@ function header(){
                 <PageInformation info={info} time="5"/>     
             </div>
             <div className="flex mb-10">
-                <div className="absolute z-10 w-5/11 bg-gradient-to-r from-boxLinear/0 via-secondBoxLinear/[.58] to-upperBoxLinear h-123 shadow-bigbox flex items-center justify-center">
+                <div className="absolute z-10 w-5/11 bg-gradient-to-r from-boxLinear via-secondBoxLinear/[.58] to-upperBoxLinear h-123 shadow-bigbox flex items-center justify-center">
                     <div className="w-80">
                         <div className="mb-4">
                             <p className="font-inter font-semibold text-sm text-blueText">BITCOIN</p>

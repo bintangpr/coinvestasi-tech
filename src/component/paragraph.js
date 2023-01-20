@@ -4,8 +4,6 @@ const Paragraph = (props)=>{
     return index === props.article.length -1 ? 
         <p key={index} className="font-inter text-paragraph" > {item} </p> :
         <p key={index} className="font-inter text-paragraph" > {item} <br/><br/> </p>;
-    
-        
       });
       return (
         <div>
