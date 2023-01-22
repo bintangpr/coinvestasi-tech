@@ -1,4 +1,4 @@
-#Coinvestasi
+##Coinvestasi
 
 ## Build With
 1. React js
@@ -8,11 +8,7 @@
 * Clone this repository.
 ```cmd
 git clone https://github.com/bintangpr/coinvestasi-tech.git
-```
-```cmd
 npm install
-```
-```cmd
 npm start
 ```
 
