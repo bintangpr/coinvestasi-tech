@@ -16,3 +16,5 @@ npm start
 ```cmd
 https://coinvestasi-bintangpr.vercel.app/
 ```
+or
+Click Here https://coinvestasi-bintangpr.vercel.app/
