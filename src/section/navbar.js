@@ -42,7 +42,7 @@ function navbar(){
                         <p className='text-white font-inter font-medium text-base text-center px-6'>Beli Bitcoin Sekarang</p>
                     </div>
                 </div>
-                <button className='m-4 block'>
+                <button className='m-4 block lg:hidden'>
                     <img src={Hamburger} alt='hamburg icon' className='w-6 h-6'/>
                 </button>
             </div>

@@ -2,15 +2,15 @@ import bitcoin from "../aset/bitcoin.svg"
 import bca from "../aset/bca.svg"
 function KomparasiTabel(){
     return(
-        <div className="my-2">
-            <table className="table-auto w-full">
+        <div className="my-2 xs:w-full overflow-x-auto">
+            <table className="table-fixed xs:table-auto w-full">
             <thead className="">
                 <tr className="bg-blueText text-white font-inter font-bold text-sm">
-                    <th className="w-1/5 py-2">Aset</th>
-                    <th className="w-1/5 py-2">Harga Beli(2016)</th>
-                    <th className="w-1/5 py-2">Harga Jual(2020)</th>
-                    <th className="w-1/5 py-2">Profit (Rp)</th>
-                    <th className="w-1/5 py-2">Profit (%)</th>
+                    <th className="w-40 xs:w-1/5 py-2">Aset</th>
+                    <th className="w-40 xs:w-1/5 py-2">Harga Beli(2016)</th>
+                    <th className="w-40 xs:w-1/5 py-2">Harga Jual(2020)</th>
+                    <th className="w-40 xs:w-1/5 py-2">Profit (Rp)</th>
+                    <th className="w-40 xs:w-1/5 py-2">Profit (%)</th>
                 </tr>
             </thead>
             <tbody>

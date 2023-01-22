@@ -13,12 +13,12 @@ import Sidebar from "./sidebar";
 
 function body() {
     return(
-        <div className="w-full flex justify-center text-blackText">
+        <div className="w-full flex justify-center text-blackText ">
             
-            <div className="w-11/12 flex gap-x-8">
+            <div className="w-11/12 flex xs:gap-x-8">
                 {/* ADA 2 BAGIAN RELATED DAN BODY */}   
-                <div className="w-3/4">
-                    <div className="ml-18 mb-11">
+                <div className="w-full lg:w-3/4">
+                    <div className="m-4 lg:ml-18 lg:mb-11 ">
                         {/* Create component for paragraph */}
                         <Paragraph article={article1}/>
                         <ArticleTitle title="Proses Kepemilikan" />
@@ -69,7 +69,9 @@ function body() {
                         <Footer />
                     </div>
                 </div>
-                <Sidebar />
+                <div className="hidden lg:block w-1/4 ">
+                    <Sidebar />
+                </div>
             </div>
         </div>
     )

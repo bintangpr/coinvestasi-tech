@@ -55,6 +55,7 @@ module.exports = {
       'greyTableText': '#A9ACAF',
       'greyTagsTitle': '#778091',
       'blue-600': '#1E386B',
+      'gray-9': '#D9D9D9',
     },
     borderRadius: {
       'timer' : '3.4375rem'
