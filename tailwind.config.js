@@ -11,6 +11,7 @@ module.exports = {
       screens: {
       xxs: { min: '0px', max: '400px'},
       xs: { min: '400px' },
+      xxsxs: {min: '0px', max: '400px'},
       sm: { min: '640px' },
       md: { min: '768px' },
       lg: { min: '1024px' },

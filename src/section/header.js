@@ -2,7 +2,7 @@ import PageInformation from "../component/pageInformation";
 import ShareButton from "../component/shareButton";
 import facebook from "../aset/facebook.svg"
 import twitter from "../aset/twitter.svg"
-import link from "../aset/twitter.svg"
+import link from "../aset/link.svg"
 import headerPic from "../aset/bitcoinVsSaham.svg"
 
 function header(){

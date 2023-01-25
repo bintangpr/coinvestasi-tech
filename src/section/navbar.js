@@ -6,7 +6,7 @@ import Hamburger from '../aset/hamburger.svg'
 
 function navbar(){
     return(
-        <div className="flex justify-center">
+        <div className="flex justify-center bg-white sticky inset-x-0 top-0 z-30 ">
             <div className="h-24 w-11/12 flex justify-between items-center" >
                 {/* lOGO -> Bitcoin (DD) - Aplikasi (DD) - Blockchain - Defi (DD) - NFT (DD) - Acara -> icon search - Beli bitcoin sekarang */}
                 <img src={CoinvestasiLogo} alt="Logo Coinvestasi" className='w-44'/>
